@@ -130,7 +130,7 @@ npm run deploy
 
 ## License
 
-© 2024 Savvy Analytics LLC. All rights reserved.
+© 2025 Savvy Analytics LLC. All rights reserved.
 
 ## Contact
 
